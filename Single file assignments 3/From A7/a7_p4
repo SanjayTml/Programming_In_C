@@ -1,0 +1,13 @@
+
+#include<stdio.h>
+
+void (*upper) (char, int);
+void (*lower) (char, int);
+void (*alternate) (char, int);
+
+int main() {
+    int n;
+    char ch;
+    fgets()
+    return 0;
+}
