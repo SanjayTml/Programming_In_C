@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1572190697 source:d:\my only\study projects\programming in c\a8_p4\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1572190769 d:\my only\study projects\programming in c\a8_p4\stack.h
+

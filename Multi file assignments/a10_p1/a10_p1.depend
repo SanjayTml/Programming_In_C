@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1573462465 source:d:\my only\study projects\programming in c\a10_p1\testcritter.cpp
+	<iostream>
+	<cstdlib>
+	"Critter.h"
+
+1573462282 d:\my only\study projects\programming in c\a10_p1\critter.h
+	<string>
+
+1573462767 source:d:\my only\study projects\programming in c\a10_p1\critter.cpp
+	<iostream>
+	"Critter.h"
+

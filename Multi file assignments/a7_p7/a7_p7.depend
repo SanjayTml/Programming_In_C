@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1571692543 source:d:\my only\study projects\programming in c\a7_p7\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1571692411 source:d:\my only\study projects\programming in c\a7_p7\teststack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1571692447 d:\my only\study projects\programming in c\a7_p7\stack.h
+
